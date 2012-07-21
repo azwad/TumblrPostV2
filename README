@@ -1,0 +1,6 @@
+reblog and post via ver2 API
+need to prepare Access Token and Accedd Token Secret and set them at ~/.pit/default.yaml
+Post option -> see https://sites.google.com/site/tsukamoto/doc/tumblr/api-v2-20110807-1911#TOC-post---
+
+
+
